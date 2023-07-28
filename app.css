@@ -1,0 +1,28 @@
+body{
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+.container{
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 20px;
+	border: 1px solid  #ccc;
+}
+h1{
+	margin-bottom: 20px;
+}
+#options button{
+
+	display: block;
+	margin: 10px auto;
+	padding: 10px 20px;
+	background-color: #3498db;
+	color: #fff;
+	border: none;
+	cursor: pointer;
+}
+
+#score{
+	margin-top: 20px;
+	font-weight: bold;
+}
